@@ -8,8 +8,8 @@ import java.security.PublicKey;
 
 public class RsaTest {
 
-    public  static  final String publicKeyPath="D:\\work\\JAVA\\RsaKey\\ras_key_public.pub";
-    public  static  final String privateKeyPath="D:\\work\\JAVA\\RsaKey\\ras_key_private";
+    public  static  final String publicKeyPath="D:\\work\\JAVA\\leadnews\\RsaKey\\ras_key_public.pub";
+    public  static  final String privateKeyPath="D:\\work\\JAVA\\leadnews\\RsaKey\\ras_key_private";
 
     /**
      * 生成公钥和私钥

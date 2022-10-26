@@ -1,4 +1,4 @@
-package com.xiaohu.model.user.pojos;
+package com.xiaohu.model.article.pojos;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
